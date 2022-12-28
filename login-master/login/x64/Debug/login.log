@@ -1,0 +1,3 @@
+﻿  admin.cpp
+D:\ASU ENG\programming\New folder\login-master\login\admin.cpp(137): warning C4717: 'admin': recursive on all control paths, function will cause runtime stack overflow
+  login.vcxproj -> D:\ASU ENG\programming\New folder\login-master\x64\Debug\login.exe
